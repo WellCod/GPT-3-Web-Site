@@ -1,3 +1,8 @@
+Deploy https://gpt-3-web-site.vercel.app/
+
+![image](https://github.com/WellCod/GPT-3-Web-Site/assets/7384901/fd9ad33a-e4d1-406e-a130-74ddbe363057)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
